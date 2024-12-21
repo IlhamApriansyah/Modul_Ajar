@@ -1,1 +1,4 @@
-#Kurikulum Merdeka
+# Informasi Modul Ajar
+
+Mata Pelajaran : Informatika
+Tahun Pembuatan : 2024
